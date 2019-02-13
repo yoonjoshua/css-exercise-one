@@ -32,7 +32,7 @@ h3 {
 .element {
   background-color: green;
   height: 100px;
-  margin 10px 0;
+  margin 10px;
   width: 100%;
 }
 /* Background color for last 3 div elements */
